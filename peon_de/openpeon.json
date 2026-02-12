@@ -1,0 +1,177 @@
+{
+  "cesp_version": "1.0",
+  "name": "peon_de",
+  "display_name": "Orc Peon (DE)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kaffeetasse",
+    "github": "Kaffeetasse"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "de",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/PeonReady1.wav",
+          "label": "Bereit zur Arbeit!",
+          "sha256": "ccf52ac66196474f39accbea605553739db0f49f33a22c06c064429dbf9d7c3b"
+        },
+        {
+          "file": "sounds/PeonWhat1.wav",
+          "label": "Ja?",
+          "sha256": "56dc798779c0ebe734c5f758b882325a755c10950971f65d866f710cdc4aee54"
+        },
+        {
+          "file": "sounds/PeonWhat3.wav",
+          "label": "Was ihr wolle?",
+          "sha256": "5b3a3d6deda5cab7d917bb5300df7e4d9cb44994671484e33b0794feee565c7b"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/PeonYes1.wav",
+          "label": "Das kann ich.",
+          "sha256": "e82a477a423b58161b78087867f6d492e86655bd594e0eb48802d08d12b8d13e"
+        },
+        {
+          "file": "sounds/PeonYes2.wav",
+          "label": "Aber gern.",
+          "sha256": "14f4a5609210573e5395be4ad9cae89957e68262623ea6559390479929055fd8"
+        },
+        {
+          "file": "sounds/PeonYes3.wav",
+          "label": "Arbeit, Arbeit.",
+          "sha256": "e5534fdda94b27ca3330845ebade102b783b26e37e3e03675a4eaeef9c3fb687"
+        },
+        {
+          "file": "sounds/PeonYes4.wav",
+          "label": "Alles klaar.",
+          "sha256": "836c739438f9e23cc2a237180d6ea0ac1aba1273b19de81b08289da24527bee5"
+        },
+        {
+          "file": "sounds/PeonYesAttack1.wav",
+          "label": "Ist gut.",
+          "sha256": "249061d176235819ed2216ae6fe628ea5a36cb91075b02e637d859df1f1cf59a"
+        },
+        {
+          "file": "sounds/PeonYesAttack2.wav",
+          "label": "Schnappt sie!",
+          "sha256": "90df7bd0f8b20cc6759c6d1e141959b5caee0a060d97578d5d6348174c333663"
+        },
+        {
+          "file": "sounds/PeonYesAttack3.wav",
+          "label": "Ich Versuchs.",
+          "sha256": "fcc780317f64c7fe0e2a59e8a26a3c90b608907c0cfe8d209e0bdf735e2082ba"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/PeonReady1.wav",
+          "label": "Bereit zur Arbeit!",
+          "sha256": "ccf52ac66196474f39accbea605553739db0f49f33a22c06c064429dbf9d7c3b"
+        },
+        {
+          "file": "sounds/PeonWhat4.wav",
+          "label": "Muss was getan werden?",
+          "sha256": "ac9083b8c447ac86696aca4380343e82a137d12a9b8e6ce35190bfa1222c5c41"
+        },
+        {
+          "file": "sounds/PeonYes1.wav",
+          "label": "Das kann ich.",
+          "sha256": "e82a477a423b58161b78087867f6d492e86655bd594e0eb48802d08d12b8d13e"
+        },
+        {
+          "file": "sounds/PeonYes2.wav",
+          "label": "Aber gern.",
+          "sha256": "14f4a5609210573e5395be4ad9cae89957e68262623ea6559390479929055fd8"
+        },
+        {
+          "file": "sounds/PeonYes3.wav",
+          "label": "Arbeit, Arbeit.",
+          "sha256": "e5534fdda94b27ca3330845ebade102b783b26e37e3e03675a4eaeef9c3fb687"
+        },
+        {
+          "file": "sounds/PeonYesAttack1.wav",
+          "label": "Ist gut.",
+          "sha256": "249061d176235819ed2216ae6fe628ea5a36cb91075b02e637d859df1f1cf59a"
+        },
+        {
+          "file": "sounds/PeonYesAttack3.wav",
+          "label": "Ich Versuchs.",
+          "sha256": "fcc780317f64c7fe0e2a59e8a26a3c90b608907c0cfe8d209e0bdf735e2082ba"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/PeonPissed4.wav",
+          "label": "Für was fürn Ork ihr mir halten?",
+          "sha256": "0fd7a3e6b21dc88aa8ee86126ffc9a8cc25792a7dfcdcee1ab182232cf0ca75f"
+        },
+        {
+          "file": "sounds/PeonDeath.wav",
+          "label": "Ugh.",
+          "sha256": "c46dd952a4dca36cc3e71b5594d6b102ad8366380ca411190e38290090d258c8"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/PeonWhat4.wav",
+          "label": "Muss was getan werden?",
+          "sha256": "ac9083b8c447ac86696aca4380343e82a137d12a9b8e6ce35190bfa1222c5c41"
+        },
+        {
+          "file": "sounds/PeonWhat2.wav",
+          "label": "Hmm?",
+          "sha256": "103cb930ed0699f12fe514cf96c0d014a45c42509d393574ec911a5679e2737e"
+        },
+        {
+          "file": "sounds/PeonWhat3.wav",
+          "label": "Was ihr wolle?",
+          "sha256": "5b3a3d6deda5cab7d917bb5300df7e4d9cb44994671484e33b0794feee565c7b"
+        },
+        {
+          "file": "sounds/PeonWhat1.wav",
+          "label": "Ja?",
+          "sha256": "56dc798779c0ebe734c5f758b882325a755c10950971f65d866f710cdc4aee54"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/PeonWarcry1.wav",
+          "label": "Warum nicht?",
+          "sha256": "6a8ca9cba5ee909ea711342aeff65dc96542d84a7483a492c86972f2fb81417a"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/PeonPissed1.wav",
+          "label": "Waaas?",
+          "sha256": "22d9d5c1b7ddfda54af835c4902ac4a1d798d056bbff0cd06a66b4f813eea510"
+        },
+        {
+          "file": "sounds/PeonPissed2.wav",
+          "label": "Ich beschäftig mich in Ruhe lassen!",
+          "sha256": "5cca90c0dc7cbad469c5429fd48d6c64aa602ef74598eb1eff1eef6daf5800fd"
+        },
+        {
+          "file": "sounds/PeonPissed3.wav",
+          "label": "Keine Zeit zum Spielen.",
+          "sha256": "c7f28b72a6eb17d1a95fc6a267529ad09de59d4e0c1876fd0361620926cbdf78"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cesp_version": "1.0",
+  "name": "ocarina_of_time",
+  "display_name": "Ocarina of Time",
+  "version": "1.0.0",
+  "author": {
+    "name": "kmostdiek-k",
+    "github": "kmostdiek-k"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/OOT_Navi_Hello1.wav", "label": "Hello!", "sha256": "878225e5c97a033e282da9afa69da50fd066433579c9b9d18fae0264a19ea391" },
+        { "file": "sounds/OOT_Navi_Hey1.wav", "label": "Hey!", "sha256": "b8f6223ca9b685302d77a79725f231710f560a9c9484b6f390b646e4fe6b4e06" },
+        { "file": "sounds/OOT_6amRooster.wav", "label": "Rooster crowing", "sha256": "d48d09254761190e6f0f4dfe438366727b0393025d11e8a5d2254b49a5586501" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/OOT_Fairy.wav", "label": "Fairy chime", "sha256": "010ba3801a4257896070d9d5f90da0aef867e6d6fce9d4028cb4feee9568fad3" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/OOT_Navi_Look1.wav", "label": "Look!", "sha256": "c9eec998f5da36f4aebc38bd0bbd3f2fe0988b348de161e0f3e67d61b1059b7f" },
+        { "file": "sounds/OOT_Navi_Listen1.wav", "label": "Listen!", "sha256": "986b4cc58dc2fb1af3ab7fedde1fe580bf8316a13a7769d86a2dfb3ddc825d1e" },
+        { "file": "sounds/OOT_Secret.wav", "label": "Secret discovery", "sha256": "f657be4d29b7605173a3d4d391919ec1979a66744d62a69755e1f9ff0085c6fb" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/OOT_Navi_WatchOut1.wav", "label": "Watch out!", "sha256": "2623883375ac7066bc66713505f16f27c398a374262674c331bd913ad196373c" },
+        { "file": "sounds/OOT_Goron_Oop.wav", "label": "Oop!", "sha256": "f07d9c3b516fe355e9764349d1bed2ba6f9ee8d5427124cf5b9a5b6dd755643e" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/OOT_YoungZelda_Hmm.wav", "label": "Hmm?", "sha256": "edc7c49163e9840d1a2502f402cd54e8ea9b793beaca7c781b5d16466c9255d8" },
+        { "file": "sounds/OOT_Nabooru_Hmm.wav", "label": "Hmm?", "sha256": "b7eb1dc7624a7ba3fc3a3e2106ae5b05a30d0e59591ffe249ad7bf762caa39d5" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/OOT_Navi_Bonk.wav", "label": "Eep", "sha256": "fb23722ef5447cabf2618ced6a8d42e55cfc124649e6b91f432e4d691678835b" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/OOT_Dialogue_No.wav", "label": "No!", "sha256": "99480a26351171caea49b6e96ac08994c1e95c49e6b3c07038745956978ca30b" }
+      ]
+    }
+  }
+}
