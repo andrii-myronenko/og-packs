@@ -1,6 +1,6 @@
 # og-packs
 
-The original 36 CESP sound packs from [peon-ping](https://github.com/PeonPing/peon-ping).
+The 40 official CESP sound packs from [peon-ping](https://github.com/PeonPing/peon-ping).
 
 Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` directory with audio files.
 
@@ -12,6 +12,7 @@ Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` direc
 | `peon_es` | Orc Peon | Warcraft III | Spanish |
 | `peon_fr` | Orc Peon | Warcraft III | French |
 | `peon_cz` | Orc Peon | Warcraft III | Czech |
+| `peon_de` | Orc Peon | Warcraft III | German |
 | `peon_pl` | Orc Peon | Warcraft III | Polish |
 | `peon_ru` | Orc Peon | Warcraft III | Russian |
 | `peasant` | Human Peasant | Warcraft III | English |
@@ -19,8 +20,10 @@ Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` direc
 | `peasant_es` | Human Peasant | Warcraft III | Spanish |
 | `peasant_fr` | Human Peasant | Warcraft III | French |
 | `peasant_ru` | Human Peasant | Warcraft III | Russian |
+| `acolyte_de` | Undead Acolyte | Warcraft III | German |
 | `acolyte_ru` | Undead Acolyte | Warcraft III | Russian |
 | `brewmaster_ru` | Pandaren Brewmaster | Warcraft III | Russian |
+| `murloc` | Murloc | Warcraft III | English |
 | `wc2_peasant` | Human Peasant | Warcraft II | English |
 | `sc_kerrigan` | Sarah Kerrigan | StarCraft | English |
 | `sc_battlecruiser` | Battlecruiser | StarCraft | English |
@@ -42,6 +45,7 @@ Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` direc
 | `hd2_helldiver` | Helldiver | Helldivers 2 | English |
 | `molag_bal` | Molag Bal | The Elder Scrolls | English |
 | `sheogorath` | Sheogorath | The Elder Scrolls | English |
+| `ocarina_of_time` | Navi | The Legend of Zelda | English |
 | `aoe2` | Taunts | Age of Empires II | English |
 | `aom_greek` | Greek Villager | Age of Mythology | Greek |
 
