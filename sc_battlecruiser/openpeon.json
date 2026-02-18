@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "sc_battlecruiser",
   "display_name": "StarCraft Battlecruiser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "garysheng",
     "github": "garysheng"
@@ -81,6 +81,29 @@
         }
       ]
     },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/WeaponsOnline.mp3",
+          "label": "Weapons online",
+          "sha256": "540334e90d67a1b6f15d6fdc60324f118a321c81b9744196f50c6e05944462a7"
+        },
+        {
+          "file": "sounds/WayBehindSchedule.mp3",
+          "label": "We are getting way behind schedule",
+          "sha256": "1c23f1cedde16c10d38eda9d3f8575374e299872fecd9492219cecd658a099ea"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/TakeItSlow.mp3",
+          "label": "Take it slow",
+          "sha256": "f816adf1f5ca4ec5c216a88ec0b762727911a56c18f6fb9d892e60f1d48822b6"
+        }
+      ]
+    },
     "user.spam": {
       "sounds": [
         {
@@ -89,9 +112,9 @@
           "sha256": "69d320c11c63a613e81a52e095d75c2acde565791b58ea216b63a2267a0b2c6b"
         },
         {
-          "file": "sounds/WayBehindSchedule.mp3",
-          "label": "We are getting way behind schedule",
-          "sha256": "1c23f1cedde16c10d38eda9d3f8575374e299872fecd9492219cecd658a099ea"
+          "file": "sounds/BuckleUp.mp3",
+          "label": "Buckle up",
+          "sha256": "56f80f2a646c0512ffda1bf8c69c5295d80b9b6455c25ae5899f65c799d513d7"
         }
       ]
     }
