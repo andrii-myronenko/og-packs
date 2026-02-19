@@ -1,6 +1,6 @@
 # og-packs
 
-The 41 official CESP sound packs from [peon-ping](https://github.com/PeonPing/peon-ping).
+The 44 official CESP sound packs from [peon-ping](https://github.com/PeonPing/peon-ping).
 
 Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` directory with audio files.
 
@@ -48,6 +48,9 @@ Each pack contains an `openpeon.json` manifest (CESP v1.0) and a `sounds/` direc
 | `ocarina_of_time` | Navi | The Legend of Zelda | English |
 | `aoe2` | Taunts | Age of Empires II | English |
 | `aom_greek` | Greek Villager | Age of Mythology | Greek |
+| `goblin` | Goblin Merchant | World of Warcraft Classic | English |
+| `clean_chimes` | Clean Chimes | (UI sounds) | English |
+| `league_of_legends` | League of Legends | League of Legends | English |
 | `cs16` | Radio | Counter-Strike 1.6 | English |
 
 ## Using these packs
