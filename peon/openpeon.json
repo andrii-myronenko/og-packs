@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "peon",
   "display_name": "Orc Peon",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "tonyyont",
     "github": "tonyyont"
@@ -70,6 +70,11 @@
     },
     "task.complete": {
       "sounds": [
+        {
+          "file": "sounds/PeonWorkComplete.wav",
+          "label": "Work complete.",
+          "sha256": "e6d666c474ea82b2e4b6f22756a9e95218fa2f6053a138f68e6237e196803ae6"
+        },
         {
           "file": "sounds/PeonReady1.wav",
           "label": "Ready to work?",
