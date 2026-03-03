@@ -2,14 +2,14 @@
   "cesp_version": "1.0",
   "name": "peasant_es",
   "display_name": "Campesino Humano (ES)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Keralin",
     "github": "Keralin"
   },
   "license": "CC-BY-NC-4.0",
   "language": "es",
-  "icon": "peasant.gif",
+  "icon": "peasant.png",
   "categories": {
     "session.start": {
       "sounds": [

@@ -2,14 +2,14 @@
   "cesp_version": "1.0",
   "name": "peasant_cz",
   "display_name": "Lidský rolník (CZ)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "vojtabiberle",
     "github": "vojtabiberle"
   },
   "license": "CC-BY-NC-4.0",
   "language": "cs",
-  "icon": "peasant.gif",
+  "icon": "peasant.png",
   "categories": {
     "session.start": {
       "sounds": [
